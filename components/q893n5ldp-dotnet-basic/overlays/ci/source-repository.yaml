@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: q893n5ldp-dotnet-basic-repository
+spec:
+  url: https://github.com/chetna14manku-org/q893n5ldp-dotnet-basic
